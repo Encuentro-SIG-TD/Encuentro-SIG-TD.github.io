@@ -351,7 +351,7 @@ header {
 }
 
 header .intro-text {
-    padding-top: 25vh;
+    padding-top: 40vh;
     padding-bottom: 50px;
 }
 
@@ -359,17 +359,17 @@ header .intro-text .intro-heading {
     margin-bottom: 25px;
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 700;
-    line-height: 20px;
+    line-height: 15px;
 }
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-family: {{ site.data.template.font.secondary }};
-    font-size: 15px;
+    font-size: 12px;
     font-style: italic;
-    line-height: 15px;
+    line-height: 12px;
 }
 
 
