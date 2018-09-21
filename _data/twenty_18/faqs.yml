@@ -1,14 +1,11 @@
-- question: Question 1
-  answer: Answer to Question 1
+- question: ¿Se otorgan becas para asistir al Encuentro?
+  answer: ...
 
-- question: Question 2
-  answer: Answer to Question 2
+- question: ¿Cómo se puede optar por el precio de estudiante?
+  answer: Debe ser estudiante de <strong>pregrado</strong> y presentar el recibo de matrícula del ciclo lectivo actual.
 
-- question: Question 3
-  answer: Answer to Question 3
+- question: ¿Cuáles métodos de pago están disponibles?
+  answer: Solamente el de transacción bancaria.
 
-- question: Question 4
-  answer: Answer to Question 4
-
-- question: Question 5
-  answer: Answer to Question 5
+- question: ¿Cómo puedo presentar un trabajo en el Encuentro?
+  answer: Debe enviar su ponencia a <a href="mailto:prosigte@una.ac.cr">prosigte@una.ac.cr</a> a más tardar el <strong>12 de octubre</strong>.

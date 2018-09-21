@@ -1,35 +1,30 @@
 - inverted: 
   img: icon-about.jpeg
-  name: Theme, Vision, Mission
-  info: Read more about our Theme, Vision, and Mission
+  name: Misión, visión y objetivos
+  info: Misión, la visión y los objetivos del Encuentro
   link: /about
 
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
-  name: Agenda
-  info: Check out the agenda
+  name: Programa
+  info: Conferencias magistrales, ponencias y actividades culturales del Encuentro
   link: /agenda
 
 - inverted: 
   img: icon-team.jpeg
-  name: Team
-  info: Find out the team members
+  name: Comité organizador
+  info: Miembros del comité organizador del Encuentro
   link: /team
 
 - inverted: timeline-inverted
   img: icon-venue.jpeg
-  name: Venue
-  info: Learn more about our location
+  name: Sede
+  info: Localización de la sede del Encuentro e información sobre estacionamientos cercanos
   link: /venue
 
 - inverted: 
   img: icon-faq.jpeg
-  name: FAQs
-  info: Have a Question? Many answers can be found right here in our FAQs
+  name: Preguntas frecuentes
+  info: Preguntas frecuentes
   link: /faqs
 
-- inverted: timeline-inverted
-  img: booklet-icon.png
-  name: Event Booklet
-  info: View or Download our event booklet
-  link: /booklet

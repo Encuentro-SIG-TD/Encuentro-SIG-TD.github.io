@@ -1,5 +1,14 @@
-- time: 8:00 AM - 12:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 8:00 a.m. - 8:30 a.m.
+  info: "<br><br><b>Inscripción y entrega de materiales</b><br><br><br>"
 
-- time: 12:00 PM - 3:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 8:30 a.m. - 8:55 a.m.
+  info: "<br><br><b>Inauguración</b><br><br><br>"
+
+- time: 8:55 a.m. - 9:15 a.m.
+  info: "<br><br><b>Acto cultural</b><br><br><br>"
+
+- time: 9:15 a.m. - 9:45 a.m.
+  info: "<u>Conferencia magistral 1</u><br><b>Claudia Dobles</b><br><i>Primera dama de la República</i><br><br>Tema"
+  
+- time: 9:45 a.m. - 10:00 a.m.
+  info: "<br><br><b>Refrigerio</b><br><br><br>"  
