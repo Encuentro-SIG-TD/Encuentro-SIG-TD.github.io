@@ -33,3 +33,39 @@
 
 - time: 11:50 - 12:00
   info: "<br><strong>Preguntas</strong><br><br>"
+
+- time: 12:00 - 1:00
+  info: "<br><strong>Almuerzo</strong><br><br>"
+
+- time: 1:00 - 1:15
+  info: "<br><strong>Ubica: sistema de información geográfica de la Municipalidad de Heredia</strong><br><em>Karol Vanessa Fallas Corrales</em><br>Municipalidad de Heredia<br><br>"
+
+- time: 1:15 - 1:30
+  info: "<br><strong>Aplicación de estándares en la información geográfica municipal</strong><br><em>Kimberly Mondragón Alemán</em><br>Universidad Nacional<br><br>"
+
+- time: 1:30 - 1:45
+  info: "<br><strong>HidroSIG: visor cartográfico del Laboratorio de Hidrología Ambiental de la UNA</strong><br><em>Geannina Moraga López</em><br>Laboratorio de Hidrología Ambiental de la Universidad Nacional (UNA)<br><br>"
+
+- time: 1:45 - 2:00
+  info: "<br><strong>Propuesta de infraestructura de datos espaciales para la Facultad de Ciencias de la Tierra y el Mar de la Universidad Nacional</strong><br><em>Bepsy Cedeño Montoya y Shirley Méndez Cordonero</em><br>Universidad Nacional<br><br>"
+
+- time: 1:45 - 2:00
+  info: "<br><strong>Propuesta de infraestructura de datos espaciales para la Facultad de Ciencias de la Tierra y el Mar de la Universidad Nacional</strong><br><em>Bepsy Cedeño Montoya y Shirley Méndez Cordonero</em><br>Universidad Nacional<br><br>"
+
+- time: 2:00 - 2:20
+  info: "<br><strong>Preguntas</strong><br><br>"
+  
+- time: 2:20 - 2:35
+  info: "<br><strong>Presentación de GeoTecnologías (patrocinador)</strong><br><br>"
+  
+- time: 2:35 - 2:50
+  info: "<br><strong>Los sistemas de información geográfica en la metodología BIM (Building Information Modeling)</strong><br><em>Fabián Pérez Gutiérrez, Andrés Víquez e Irene Hernández</em><br><br><br>"
+  
+- time: 2:50 - 3:05
+  info: "<br><strong>División innovación y estrategia del negocio (DIEN) Dirección innovación y planificación Gerencia de Telecomunicaciones</strong><br><em>John Boza Araya</em><br><br>"
+
+- time: 3:05 - 3:20
+  info: "<br><strong>Desarrollo e implementación del Plan Nacional de Información Geoespacial (PNIG) del Instituto Geográfico Nacional - Registro Nacional</strong><br><em>Christian Núñez Solís</em><br>Instituto Geográfico Nacional<br><br>"
+
+- time: 3:20 - 3:40
+  info: "<br><strong>Preguntas</strong><br><br>"
