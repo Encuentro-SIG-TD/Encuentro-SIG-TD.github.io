@@ -42,3 +42,15 @@
   
 - time: 12:00 - 1:00
   info: "<br><strong>Almuerzo</strong><br><br>"
+
+- time: 1:00 - 1:15
+  info: "<br><strong>El estado del recurso hídrico para consumo humano en Costa Rica: ubicación y distribución por ente operador</strong><br><em>Kenneth Masís Núñez</em><br><br><br>"
+
+- time: 1:15 - 1:30
+  info: "<br><strong>Estudios de caso en el uso de SIG en la fotogrametría y teledetección a partir de vehículos aéreos no tripulados (VANTS)</strong><br><em>Jorge Rodríguez Campos</em><br><br><br>"
+
+- time: 1:30 - 1:45
+  info: "<br><strong>Corredores biológicos en Costa Rica: una evaluación a partir de la estructura del paisaje y procesos de fragmentación - conectividad</strong><br><em>Luis Sandoval Murillo y Carlos Morera Beita</em><br><br><br>"
+
+- time: 1:45 - 2:00
+  info: "<br><strong>Preguntas</strong><br><br>"
