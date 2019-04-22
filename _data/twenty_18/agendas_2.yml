@@ -1,8 +1,8 @@
 - time: 8:00 - 8:30
-  info: "<br><strong>Charla magistral: Aplicaciones SIG al análisis de los resultados electorales</strong><br><em>Ronald Alfaro Redondo y Steffan Gómez Campos</em><br>Universidad de Costa Rica y Programa Estado de la Nación<br><br>"
+  info: "<br><strong>Charla magistral: Aplicaciones SIG al análisis de los resultados electorales</strong><br><em>Ronald Alfaro Redondo y Steffan Gómez Campos</em><br>Centro de Investigación y Estudios Políticos de la Universidad de Costa Rica y Programa Estado de la Nación<br><br>"
 
 - time: 8:30 - 8:45
-  info: "<br><strong>División territorial electoral</strong><br><em>Maynor Alfaro y Roberto Mora</em><br>Tribunal Supremo de Elecciones<br><br>"
+  info: "<br><strong>División territorial electoral</strong><br><em>Maynor Alfaro Hernández y Roberto Mora Palacios</em><br>Tribunal Supremo de Elecciones<br><br>"
 
 - time: 8:45 - 9:00
   info: "<br><strong>Preguntas</strong><br><br>"
@@ -14,19 +14,19 @@
   info: "<br><strong>Presentación de ADDAX (patrocinador)</strong><br><br>"
 
 - time: 9:40 - 9:55
-  info: "<br><strong>SIG como herramienta para generar lineamientos para la maricultura</strong><br><em>Rebeca Quesada Céspedes, Sidey Arias Valverde y Hannia Vega Bolaños</em><br>Universidad Nacional<br><br>"
+  info: "<br><strong>SIG como herramienta para generar lineamientos para la maricultura</strong><br><em>Rebeca Quesada Céspedes, Sidey Arias Valverde y Hannia Vega Bolaños</em><br>Estación de Biología Marina, Escuela de Ciencias Biológicas, Universidad Nacional<br><br>"
 
 - time: 9:55 - 10:10
-  info: "<br><strong>Aplicación de SIG para la evaluación del estado de conservación en ríos y quebradas de Costa Rica</strong><br><em>Fabián Sibaja Araya</em><br><br><br>"
+  info: "<br><strong>Aplicación de SIG para la evaluación del estado de conservación en ríos y quebradas de Costa Rica</strong><br><em>Fabián Sibaja Araya</em><br>Escuela de Ciencias Biológicas, Universidad Nacional<br><br>"
 
 - time: 10:10 - 10:25
-  info: "<br><strong>Clasificación de la trama verde del corredor biológico interurbano Río María Aguilar</strong><br><em>Jessica Francini Acuña Piedra</em><br><br><br>"
+  info: "<br><strong>Clasificación de la trama verde del corredor biológico interurbano Río María Aguilar</strong><br><em>Jessica Francini Acuña Piedra</em><br>Proyecto Paisajes Productivos, Programa de Naciones Unidas para el Desarrollo<br><br>"
 
 - time: 10:25 - 10:40
   info: "<br><strong>Preguntas</strong><br><br>"
   
 - time: 10:40 - 10:55
-  info: "<br><strong>Sistema Nacional de Monitoreo de Cobertura y Uso de la Tierra y Ecosistemas (Simocute)</strong><br><em>Marilyn Calvo Méndez</em><br>Instituto Meteorológico de Costa Rica<br><br>"
+  info: "<br><strong>Sistema Nacional de Monitoreo de Cobertura y Uso de la Tierra y Ecosistemas (Simocute)</strong><br><em>Marilyn Calvo Méndez</em><br>Instituto Meteorológico Nacional<br><br>"
   
 - time: 10:55 - 11:10
   info: "<br><strong>Actualización de coberturas relacionadas con paisajes productivos dentro del MOCUPP</strong><br><em>Heileen Aguilar Arias</em><br>Centro Nacional de Alta Tecnología<br><br>"
@@ -35,7 +35,7 @@
   info: "<br><strong>Aplicaciones matemáticas para la elaboración de la malla de puntos para investigación en el territorio terrestre de Costa Rica</strong><br><em>Andrés Barahona Contreras</em><br>Centro Nacional de Alta Tecnología<br><br>"
 
 - time: 11:25 - 11:40
-  info: "<br><strong>Estandarización de la información geoespacial en el Ministerio de Ambiente y Energía</strong><br><em>Rafael Monge Vargas</em><br>Ministerio de Ambiente y Energía<br><br>"
+  info: "<br><strong>Estandarización de la información geoespacial en el Ministerio de Ambiente y Energía</strong><br><em>Rafael Monge Vargas</em><br>Centro Nacional de Información Geomabiental, Ministerio de Ambiente y Energía<br><br>"
 
 - time: 11:40 - 12:00
   info: "<br><strong>Preguntas</strong><br><br>"
@@ -50,7 +50,7 @@
   info: "<br><strong>Estudios de caso en el uso de SIG en la fotogrametría y teledetección a partir de vehículos aéreos no tripulados (VANTS)</strong><br><em>Jorge Rodríguez Campos</em><br>Sistemas y Soluciones de Mapeo Aéreo Profesional<br><br>"
 
 - time: 1:30 - 1:45
-  info: "<br><strong>Corredores biológicos en Costa Rica: una evaluación a partir de la estructura del paisaje y procesos de fragmentación - conectividad</strong><br><em>Luis Sandoval Murillo y Carlos Morera Beita</em><br>Universidad Nacional<br><br>"
+  info: "<br><strong>Corredores biológicos en Costa Rica: una evaluación a partir de la estructura del paisaje y procesos de fragmentación - conectividad</strong><br><em>Luis Sandoval Murillo y Carlos Morera Beita</em><br>Escuela de Ciencias Geográficas, Universidad Nacional<br><br>"
 
 - time: 1:45 - 2:00
   info: "<br><strong>Preguntas</strong><br><br>"
