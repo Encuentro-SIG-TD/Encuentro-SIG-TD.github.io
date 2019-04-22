@@ -1,15 +1,24 @@
 - title: Eduardo Brenes Mata
   name: Name-1
-  subtitle: Viceministro de Transportes
+  subtitle: Viceministro de Transportes<br>Ministerio de Obras Públicas y Transportes
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
 
-- title: Nombre
+- title: Ronald Alfaro Redondo
   name: Name-2
-  subtitle: Posición
+  subtitle: Centro de Investigación y Estudios Políticos, Universidad de Costa Rica<br>Programa Estado de la Nación
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Steffan Gómez Campos
+  name: Name-3
+  subtitle: Centro de Investigación y Estudios Políticos, Universidad de Costa Rica<br>Programa Estado de la Nación
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
