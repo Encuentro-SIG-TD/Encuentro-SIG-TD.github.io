@@ -5,7 +5,7 @@
   info: "<br><strong>Inauguración</strong><br><em>Manuel Antonio Solano Mayorga</em><br>Director<br>Escuela de Ciencias Geográficas, Universidad Nacional<br><br><em>Héctor Fernández Masís</em><br>Director General<br>Registro Electoral y Financiamiento de Partidos Políticos, Tribunal Supremo de Elecciones<br><br><em>Marvin Chaverri Sandoval</em><br>Subdirector<br>Instituto Geográfico Nacional, Registro Nacional<br><br>"
 
 - time: 9:00 - 9:45
-  info: "<br><strong>Charla magistral: Planificación estratégica multimodal</strong><br><em>Eduardo Brenes Mata</em><br>Viceministro de Transportes del Ministerio de Obras Públicas y Transportes<br><br>"
+  info: "<br><strong>Charla magistral: Planificación estratégica multimodal</strong><br><em>Eduardo Brenes Mata</em><br>Viceministro de Transportes, Ministerio de Obras Públicas y Transportes<br><br>"
 
 - time: 9:45 - 10:00
   info: "<br><strong>Refrigerio</strong><br><br>"
@@ -17,7 +17,7 @@
   info: "<br><strong>La toma de decisiones basada en datos: aplicación de tecnologías de SIG en el Ministerio de Vivienda y Asentamientos Humanos</strong><br><em>César Chaves Campos</em><br>Ministerio de Vivienda y Asentamientos Humanos<br><br>"
 
 - time: 10:30 - 10:45
-  info: "<br><strong>Georreferenciación de los proyectos de investigación: una oportunidad para la planificación estratégica y la difusión de resultados académicos de la Universidad Nacional</strong><br><em>Anayudel Gutiérrez Hernández</em><br>Universidad Nacional<br><br>"
+  info: "<br><strong>Georreferenciación de los proyectos de investigación: una oportunidad para la planificación estratégica y la difusión de resultados académicos de la Universidad Nacional</strong><br><em>Anayudel Gutiérrez Hernández</em><br>Vicerrectoría de Investigación, Universidad Nacional<br><br>"
 
 - time: 10:45 - 11:00
   info: "<br><strong>Preguntas</strong><br><br>"
@@ -41,13 +41,13 @@
   info: "<br><strong>Ubica: sistema de información geográfica de la Municipalidad de Heredia</strong><br><em>Karol Vanessa Fallas Corrales</em><br>Municipalidad de Heredia<br><br>"
 
 - time: 1:15 - 1:30
-  info: "<br><strong>Aplicación de estándares en la información geográfica municipal</strong><br><em>Kimberly Mondragón Alemán</em><br>Universidad Nacional<br><br>"
+  info: "<br><strong>Aplicación de estándares en la información geográfica municipal</strong><br><em>Kimberly Mondragón Alemán</em><br>Escuela de Ciencias Geográficas, Universidad Nacional<br><br>"
 
 - time: 1:30 - 1:45
-  info: "<br><strong>HidroSIG: visor cartográfico del Laboratorio de Hidrología Ambiental de la Universidad Nacional</strong><br><em>Geannina Moraga López</em><br>Universidad Nacional<br><br>"
+  info: "<br><strong>HidroSIG: visor cartográfico del Laboratorio de Hidrología Ambiental de la Universidad Nacional</strong><br><em>Geannina Moraga López y Christian Núñez Solís</em><br>Laboratorio de Hidrología Ambiental, Escuela de Ciencias Biológicas, Universidad Nacional<br><br>"
 
 - time: 1:45 - 2:00
-  info: "<br><strong>Propuesta de infraestructura de datos espaciales para la Facultad de Ciencias de la Tierra y el Mar de la Universidad Nacional</strong><br><em>Bepsy Cedeño Montoya y Shirley Méndez Cordonero</em><br>Universidad Nacional<br><br>"
+  info: "<br><strong>Propuesta de infraestructura de datos espaciales para la Facultad de Ciencias de la Tierra y el Mar de la Universidad Nacional</strong><br><em>Bepsy Cedeño Montoya y Shirley Méndez Cordonero</em><br>Escuela de Ciencias Geográficas, Universidad Nacional<br><br>"
 
 - time: 2:00 - 2:15
   info: "<br><strong>Preguntas</strong><br><br>"
@@ -56,10 +56,10 @@
   info: "<br><strong>Presentación de GeoTecnologías (patrocinador)</strong><br><br>"
   
 - time: 2:35 - 2:50
-  info: "<br><strong>Los sistemas de información geográfica en la metodología BIM (Building Information Modeling)</strong><br><em>Fabián Pérez Gutiérrez, Andrés Víquez e Irene Hernández</em><br><br><br>"
+  info: "<br><strong>Los sistemas de información geográfica en la metodología BIM (Building Information Modeling)</strong><br><em>Fabián Pérez Gutiérrez, Andrés Víquez e Irene Hernández Ruíz</em><br><br><br>"
   
 - time: 2:50 - 3:05
-  info: "<br><strong>Integrando la minería de datos exploratoria, descriptiva y predictiva con los SIG, para el apoyo en la toma de decisiones estratégicas</strong><br><em>John Boza Araya</em><br>Instituto Costarricense de Electricidad<br><br>"
+  info: "<br><strong>Integrando la minería de datos exploratoria, descriptiva y predictiva con los SIG para el apoyo en la toma de decisiones estratégicas</strong><br><em>John Boza Araya</em><br>División Innovación y Estrategia del Negocio (DIEN), Dirección Innovación y Planificación Gerencia de Telecomunicaciones, Instituto Costarricense de Electricidad<br><br>"
 
 - time: 3:05 - 3:20
   info: "<br><strong>Desarrollo e implementación del Plan Nacional de Información Geoespacial (PNIG) del Instituto Geográfico Nacional - Registro Nacional</strong><br><em>Christian Núñez Solís</em><br>Instituto Geográfico Nacional<br><br>"
